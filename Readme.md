@@ -26,4 +26,6 @@ Features:
 
 ·Getting started with husky and hooks in git
 
-·Create and link netlify from github repository
+·Create and link netlify from github repository:
+
+https://202210-w1-anabelen-sanchez.netlify.app/
